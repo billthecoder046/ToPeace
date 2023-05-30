@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:to_peace/utils/sizes.dart';
 
 import '../utils/colors.dart';
+import '../utils/sizes.dart';
 
 class StandardButton extends StatelessWidget {
   final String text;
